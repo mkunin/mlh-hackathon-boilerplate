@@ -33,7 +33,7 @@ event:
   name:        "HoosierHacks"
   description: ""
   date:        "April 2018"
-  location:    "Bloomington, IN, United States"
+  location:    "Bloomington, IN"
 
   trust_badge:
     year:   "2018"  # season year
