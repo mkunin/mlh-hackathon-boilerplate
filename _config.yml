@@ -37,7 +37,7 @@ event:
 
   trust_badge:
     year:   "2018"  # season year
-    region: "eu"    # "na" or "eu"
+    region: “na”    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
@@ -45,7 +45,7 @@ event:
       - text: "Apply"
         my_mlh:
           client_id:    "4949c56c9263a1c63f25004120e9adcfa77af3166294ba5c566b0e81e2b16d33"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+          redirect_uri: "https://mattkunin.com/oauth/callback"
       - text: "Sponsor"
         href: "mailto:sponsorship@website.com"
 
